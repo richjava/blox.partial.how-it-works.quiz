@@ -1,10 +1,9 @@
-# blox.partial.bio.quiz
+# blox.partial.how-it-works.quiz
 
-A [Building Blox](https://github.com/Building-Blox/building-blox) bio partial.
+A [Building Blox](https://github.com/Building-Blox/building-blox) "How it works" partial.
 
 ## Dependencies
 - Bootstrap
 
 ## Blocks
-### Components
-- bio [blox.component.bio.quiz]()
+None
